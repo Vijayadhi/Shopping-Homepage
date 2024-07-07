@@ -24,7 +24,7 @@ function App() {
       price: "999"
     },
     {
-      img: "https:/m.media-amazon.com/images/I/517lSvEVVsL._AC_UL480_QL65_.jpg",
+      img: "https://m.media-amazon.com/images/I/517lSvEVVsL._AC_UL480_QL65_.jpg",
       title: "Noise Two Wireless On-Ear Headphones with 50 Hours Playtime, Low Latency(up to 40ms), 4 Play Modes",
       price: "1699"
     },
